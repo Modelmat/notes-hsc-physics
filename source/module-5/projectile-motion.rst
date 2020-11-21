@@ -49,7 +49,6 @@ A *trajectory* is a concave down parabola.
 As the horizontal and vertical components of velocity are independent, projectile motion can be analysed using variations on the SUVAT formulas.
 
 .. list-table::
-   :width: 90%
    :align: center
 
    * - Linear Motion
@@ -132,38 +131,37 @@ Practical Investigation: Projectile Motion
 5. Repeat Steps 3 and 4 at 20cm and 30cm above the table.
 6. Record the data in a table like so:
 
-   .. list-table::
-      :width: 60%
-      :align: center
+.. list-table::
+   :align: center
 
-      * - Height (m)
-        - Run 1 (m)
-        - Run 2 (m)
-        - Run 3 (m)
-        - Run 4 (m)
-        - Run 5 (m)
-        - Average (m)
-      * - 0.100
-        -
-        -
-        -
-        -
-        -
-        -
-      * - 0.200
-        -
-        -
-        -
-        -
-        -
-        -
-      * - 0.300
-        -
-        -
-        -
-        -
-        -
-        -
+   * - Height (m)
+     - Run 1 (m)
+     - Run 2 (m)
+     - Run 3 (m)
+     - Run 4 (m)
+     - Run 5 (m)
+     - Average (m)
+   * - 0.100
+     -
+     -
+     -
+     -
+     -
+     -
+   * - 0.200
+     -
+     -
+     -
+     -
+     -
+     -
+   * - 0.300
+     -
+     -
+     -
+     -
+     -
+     -
 
 7. The horizontal launch velocity can be calculated using a combination of $\Delta U = mg\Delta h$, $KE=\frac{1}{2}mv^2$ and $\Delta KE = -\Delta U$.
 From there, the estimated $s_x$ can be calculated and compared to the measured values.
